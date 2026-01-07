@@ -2,6 +2,17 @@
 
 A full-stack application for managing campus complaints with an Express.js + MongoDB backend and Flutter .
 
+
+Watch System Demo here: https://github.com/user-attachments/assets/20c3c069-741a-4137-a2da-d169edda3ebd
+
+Group Members:
+- Lovely Grace Delos Santos
+- Saira Mejia
+- Rj C. Delos Santos
+- Alliah Mae S Lambino 
+- Rhea Mae Dela cruz
+- Raquel S. Alvaro
+
 ## Overview
 - Backend: Express.js, Mongoose, CORS, Dotenv
 - Frontend: Flutter Web (Material 3)
